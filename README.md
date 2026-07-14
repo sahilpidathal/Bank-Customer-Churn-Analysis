@@ -40,4 +40,4 @@ This project analyzes customer churn in a retail banking environment using SQL S
 
 ⭐ Author
 
-**Sahil Manohar Pidathal**
+**Sahil Pidathal**
