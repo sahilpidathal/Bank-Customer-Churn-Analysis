@@ -1,0 +1,78 @@
+Business Insights
+Insight 1: Overall Customer Churn
+Observation
+
+The bank has 10,000 customers, of which 2,037 customers have exited, resulting in an overall churn rate of approximately 20.37%.
+
+Business Impact
+
+Nearly one in every five customers has left the bank, indicating a significant loss of potential revenue and customer lifetime value.
+
+Recommendation
+
+Implement proactive customer retention programs by identifying at-risk customers early and offering personalized engagement strategies.
+
+Insight 2: Country-wise Churn Analysis
+Observation
+
+Germany records the highest customer churn rate (32.44%), compared to Spain (16.67%) and France (16.15%).
+
+Business Impact
+
+Customers in Germany are leaving the bank at nearly twice the rate of customers in France and Spain, suggesting regional differences in customer experience or service effectiveness.
+
+Recommendation
+
+Conduct a detailed investigation into customer behavior in Germany and introduce targeted retention campaigns to address region-specific challenges.
+
+Insight 3: Gender-wise Churn Analysis
+Observation
+
+Female customers have a higher churn rate than male customers across all three countries.
+
+Business Impact
+
+This consistent trend indicates that current banking products or services may not be meeting the expectations of female customers.
+
+Recommendation
+
+Analyze customer feedback and product usage among female customers to design more personalized banking services and loyalty programs.
+
+Insight 4: Age Group Analysis
+Observation
+
+Senior Adult and Senior Citizen customer groups exhibit the highest churn rates across multiple countries, while younger customers show comparatively lower churn.
+
+Business Impact
+
+Older customers represent a higher retention risk despite often having longer banking relationships and potentially higher account balances.
+
+Recommendation
+
+Develop specialized retention initiatives for older customers, such as relationship management services, personalized financial advice, and exclusive benefits.
+
+Insight 5: Active Member Analysis
+Observation
+
+Inactive members consistently show higher churn rates than active members across all countries.
+
+Business Impact
+
+Customer engagement is strongly associated with retention. Less active customers are significantly more likely to leave the bank.
+
+Recommendation
+
+Increase customer engagement through personalized offers, digital banking campaigns, and reward programs that encourage regular account activity.
+
+Insight 6: Product Analysis
+Observation
+
+Customers with specific product counts (particularly two or more products, depending on the dashboard) demonstrate noticeable differences in churn behaviour.
+
+Business Impact
+
+The number of products owned by a customer influences loyalty and retention, making product ownership an important business indicator.
+
+Recommendation
+
+Identify customers with lower product adoption and promote cross-selling opportunities that increase customer engagement and long-term retention.
